@@ -15,6 +15,16 @@
   "sleep": "https://tgapi.sleepagotchi.com/v1/tg",
   "duckChain": "https://aad.duckchain.io",
   "zoo": "https://api.zoo.team",
+  "tabizoo": "https://api.tabibot.com/api",
+  "tapswap": "https://api.tapswap.club/api",
+  "sosovalue": "https://gw.sosovalue.com/tavern/api/tg/",
+  "capx": "https://api.superapp.capx.ai",
+  "kushempire": "https://api.kushempire.games/api",
+  "xstar": "https://game.xname.app",
+
+  "catopia": "",
+  "kitty": "",
+  "taker": "",
   
   "copyright": "Nếu api thay đổi vui lòng liên hệ tele VôDanh (https://t.me/vodanh67899) để biết thêm thông tin và cập nhật!| Have any issuess, please contact: https://t.me/vodanh67899"
 }
